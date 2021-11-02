@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace _05_Bank
 {
-    class Cliente
+    public class Cliente
     {
+        public string nome { get; set; }
+        public string cpf { get; set; }
+        public string profissao { get; set; }
     }
-}
+}   

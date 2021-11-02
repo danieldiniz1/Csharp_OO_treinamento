@@ -9,7 +9,7 @@ namespace _05_Bank
     class ContaCorrente
     {
         public int id;
-        public string titular;
+        public Cliente titular;
         public int agencia;
         public int numeroConta;
         public double saldo = 100;

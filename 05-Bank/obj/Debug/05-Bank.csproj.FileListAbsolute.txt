@@ -1,0 +1,7 @@
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\05-Bank\bin\Debug\05-Bank.exe.config
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\05-Bank\bin\Debug\05-Bank.exe
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\05-Bank\bin\Debug\05-Bank.pdb
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\05-Bank\obj\Debug\05-Bank.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\05-Bank\obj\Debug\05-Bank.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\05-Bank\obj\Debug\05-Bank.exe
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\05-Bank\obj\Debug\05-Bank.pdb
