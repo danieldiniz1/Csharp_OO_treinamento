@@ -1,0 +1,7 @@
+G:\Meu Drive\Cursos_Alura\Csharp\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\04-Bank\bin\Debug\04-Bank.exe.config
+G:\Meu Drive\Cursos_Alura\Csharp\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\04-Bank\bin\Debug\04-Bank.exe
+G:\Meu Drive\Cursos_Alura\Csharp\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\04-Bank\bin\Debug\04-Bank.pdb
+G:\Meu Drive\Cursos_Alura\Csharp\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\04-Bank\obj\Debug\04-Bank.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos_Alura\Csharp\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\04-Bank\obj\Debug\04-Bank.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos_Alura\Csharp\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\04-Bank\obj\Debug\04-Bank.exe
+G:\Meu Drive\Cursos_Alura\Csharp\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\04-Bank\obj\Debug\04-Bank.pdb
