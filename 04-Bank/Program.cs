@@ -31,7 +31,7 @@ namespace _04_Bank
             bool resultadoTransferencia = contaDoBruno.Transferir(400, contaDaGabriela);
 
             Console.WriteLine(resultadoTransferencia);
-            Console.WriteLine("Saldo do Bruno: " + contaDoBruno.saldo);
+            Console.WriteLine("Saldo do Bruno após tranferir: " + contaDoBruno.saldo);
             Console.WriteLine("Saldo do Gabriela: " + contaDaGabriela.saldo);
 
             Console.ReadLine();
