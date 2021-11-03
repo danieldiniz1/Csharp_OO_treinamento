@@ -1,0 +1,16 @@
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\bin\Debug\net5.0\07-Bank.exe
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\bin\Debug\net5.0\07-Bank.deps.json
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\bin\Debug\net5.0\07-Bank.runtimeconfig.json
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\bin\Debug\net5.0\07-Bank.runtimeconfig.dev.json
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\bin\Debug\net5.0\07-Bank.dll
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\bin\Debug\net5.0\ref\07-Bank.dll
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\bin\Debug\net5.0\07-Bank.pdb
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\07-Bank.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\07-Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\07-Bank.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\07-Bank.AssemblyInfo.cs
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\07-Bank.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\07-Bank.dll
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\ref\07-Bank.dll
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\07-Bank.pdb
+C:\Users\danie\Documents\Daniel_Diniz\repositorios\Formação CSharp e orientação a objetos\Introdução a orientação a objetos\07-Bank\obj\Debug\net5.0\07-Bank.genruntimeconfig.cache

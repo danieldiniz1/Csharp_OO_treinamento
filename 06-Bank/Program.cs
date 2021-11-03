@@ -11,10 +11,18 @@ namespace _06_Bank
         static void Main(string[] args)
         {
             ContaCorrente conta = new ContaCorrente();
+            Cliente cliente = new Cliente();
 
-            conta.DefinirSaldo(-10);
+            cliente.Nome = "Guilherme";
+            cliente.CPF = "321.654.789-80";
+            cliente.Profissao = "ADM";
 
-            Console.WriteLine(conta.ObterSaldo());
+
+            conta.Titular = cliente;
+            conta.Saldo = -10;
+
+            Console.WriteLine(conta.Titular.Nome);
+            Console.WriteLine(conta.Saldo);
 
 
             Console.ReadLine();

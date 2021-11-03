@@ -4,17 +4,47 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _06_Bank
+namespace _07_Bank
 {
     class ContaCorrente
     {
         public int id;
 
         public Cliente Titular { get; set; }
+        private int _agencia;
+        public int Agencia
+        {
+            get
+            {
+                return _agencia;
+            }
+            
+            set
+            {
+                if (value <= 0)
+                    return;
+                _agencia = value;
+            }
+        }
 
-        public int Agencia { get; set; }
+        private int _numeroConta;
 
-        public int NumeroConta { get; set; }
+        public int NumeroConta
+        {
+            get
+            {
+                return _numeroConta;
+            }
+
+            set
+            {
+                if (value <= 0)
+                    return;
+                _numeroConta = value;
+            }
+        }
+
+
 
         private double _saldo = 100;
         public double Saldo
@@ -31,6 +61,12 @@ namespace _06_Bank
         }
 
 
+
+        public ContaCorrente(int agencia, int numeroConta)
+        {
+            Agencia = agencia;
+            NumeroConta = numeroConta;
+        }
 
         public bool Sacar(double valor)
         {
