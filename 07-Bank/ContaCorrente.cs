@@ -11,6 +11,9 @@ namespace _07_Bank
         public int id;
 
         public Cliente Titular { get; set; }
+
+        public static int QtdeContasCriadas { get; private set; } // menbro estático da classe 
+
         private int _agencia;
         public int Agencia
         {
@@ -66,6 +69,8 @@ namespace _07_Bank
         {
             Agencia = agencia;
             NumeroConta = numeroConta;
+
+            QtdeContasCriadas++;
         }
 
         public bool Sacar(double valor)
